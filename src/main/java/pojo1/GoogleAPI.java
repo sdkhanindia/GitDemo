@@ -12,7 +12,8 @@ public class GoogleAPI {
 	private String website;
 	private String language;
 	private String myName = "zafar";
-	
+	private int x = 10;  // Code added by X
+	private int y = 20;  // Code added by Z	
 	
 	public Location getLocation() {
 		return location;
