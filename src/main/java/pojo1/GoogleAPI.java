@@ -11,6 +11,7 @@ public class GoogleAPI {
 	private List<String> types;
 	private String website;
 	private String language;
+	private String myName = "zafar";
 	
 	
 	public Location getLocation() {
