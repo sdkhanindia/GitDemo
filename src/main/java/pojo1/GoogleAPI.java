@@ -14,7 +14,7 @@ public class GoogleAPI {
 	private String myName = "zafar";
 	private int x = 10;  // Code added by X
 	private int y = 20;  // Code added by Z	
-	
+	private String gitDevelopBranch = "inside develop branch now of GitDemo";	
 	public Location getLocation() {
 		return location;
 	}
