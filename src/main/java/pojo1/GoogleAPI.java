@@ -15,6 +15,8 @@ public class GoogleAPI {
 	private int x = 10;  // Code added by X
 	private int y = 20;  // Code added by Z	
 	private String gitDevelopBranch = "inside develop branch now of GitDemo";	
+	private String gitXUpdate = "code changed by gitX user";
+
 	public Location getLocation() {
 		return location;
 	}
